@@ -4,4 +4,4 @@ This is the implement for the paper "Integration of Large Vision Language Models
 - lanchain == 0.2.7
 - crewai == 0.36.0
 - crewai_tools == 0.4.8
-- To run the whole framework, please run the file "DisasterManagement_teamwork_simulation.py".
+- To run the whole framework, please fill in your OpenAI API key in the **" "**, and run the file **"DisasTeller/DisasterManagement_teamwork_simulation.py"**.
