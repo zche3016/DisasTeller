@@ -22,8 +22,6 @@ os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 # gpt_4o_mini = ChatOpenAI(model="gpt-4o-mini-2024-07-18")
 gpt_4o = ChatOpenAI(model="gpt-4o-2024-08-06")
 
-
-
 # Define tools for the agent
 class WebBrowserTool:
     @langchain_tool("Internet_search", return_direct=False)
