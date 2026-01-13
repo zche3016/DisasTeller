@@ -13,9 +13,9 @@ This repository provides the **official implementation** of the paper:
 
 DisasTeller is an agentic, multi-LVLM (Large Vision-Language Model) framework for **automating key tasks in post-disaster response**, including on-site damage assessment, emergency alert generation, resource allocation, and recovery planning. The framework coordinates multiple specialised LVLM agents, with GPT-4o or Gemma3 at its core, to accelerate the disaster response workflow and structure information flow more efficiently than manual coordination. DisasTeller is intended to complement expert teams by rapidly organising visual and textual information, generating structured reports, and reducing human execution time for coordinated response activities.
 <br><br>
-<img width="940" height="619" alt="image" src="https://github.com/user-attachments/assets/70d35dd0-3603-4e8c-8a28-f213ce9e240e" />
+<img width="2338" height="1539" alt="Picture1" src="https://github.com/user-attachments/assets/368f6054-50c4-4121-a919-12136ee847ec" />
 <br><br>
-<img width="940" height="559" alt="image" src="https://github.com/user-attachments/assets/4d6b4dac-7cea-44ae-bf5d-5757f537589b" />
+<img width="2339" height="1343" alt="Picture3" src="https://github.com/user-attachments/assets/3aa748dd-cf17-4c6c-a01d-4facbc56136c" />
 
 ---
 
